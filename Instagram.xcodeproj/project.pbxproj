@@ -133,9 +133,9 @@
 		C7AE3E8226B413C7009CE95E /* Instagram */ = {
 			isa = PBXGroup;
 			children = (
+				C7C5FE3326BC14D5000863AE /* Models */,
 				C7AE3E9A26B41425009CE95E /* Resources */,
 				C7AE3E9926B4141F009CE95E /* Controllers */,
-				C7AE3E9826B4141A009CE95E /* Models */,
 				C7AE3E9726B41413009CE95E /* Views */,
 				C7AE3E9126B413C8009CE95E /* Info.plist */,
 			);
@@ -149,13 +149,6 @@
 				C7AE3E8C26B413C8009CE95E /* Assets.xcassets */,
 			);
 			path = Views;
-			sourceTree = "<group>";
-		};
-		C7AE3E9826B4141A009CE95E /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 		C7AE3E9926B4141F009CE95E /* Controllers */ = {
@@ -218,6 +211,13 @@
 				C7AE3EA926B4154D009CE95E /* RegistrationViewController.swift */,
 			);
 			path = OnBoarding;
+			sourceTree = "<group>";
+		};
+		C7C5FE3326BC14D5000863AE /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
